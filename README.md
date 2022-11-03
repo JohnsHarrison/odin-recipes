@@ -1,0 +1,1 @@
+This is a project from https://www.theodinproject.com/ to practice my CSS and HTML skills. 
